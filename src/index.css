@@ -44,7 +44,7 @@ span[role="image"] {
   transition: all 0.3s;
 }
 
-.App {
+.App.light {
   margin: 2rem auto;
   padding: 1rem 2rem;
   max-width: 600px;
